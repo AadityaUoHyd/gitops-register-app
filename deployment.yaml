@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: aadiraj48dockerhub/docker_demo1/register-app-pipeline:1.0.0-9
+          image: aadiraj48dockerhub/register-app-pipeline:1.0.0-5
           resources:
             limits:
               memory: "256Mi"
